@@ -3,5 +3,6 @@
 
 # Command
 > cd autohomespider/praise/praise/
+
 > scrapy runspider -s JOBDIR=jobs/autohome-00 spiders/autohome.py
 
